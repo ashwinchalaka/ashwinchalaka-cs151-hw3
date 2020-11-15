@@ -2,9 +2,6 @@ package com.ashwinchalaka.hw3.exercise1;
 
 import java.util.Random;
 
-/**
- *
- */
 public class TestExercise1 {
     public static void main(String[] args) {
         FilterType1 filter = new FilterType1();
